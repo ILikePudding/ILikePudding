@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS graduate at the University of Houston who is passionate about building robust software, games, and apps.
+I am a Software Engineering Student at the University of Houston - Clear Lake who is passionate about building robust software, games, and apps.
 
 
 ## 🌐 Socials:
