@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineering Student at the University of Houston - Clear Lake who is passionate about building robust software, games, and apps.<br><br>🔭 I’m currently working on a Roblox defense game, real-time chat app, travel app, and a job-tracking app.<br>
+I am a Software Engineering Student at the University of Houston - Clear Lake who is passionate about building robust software, games, and apps.<br><br> I’m currently working on a tower defense game, real-time chat app, travel app, and a job-tracking app.<br>
 
 
 ## 🌐 Socials:
