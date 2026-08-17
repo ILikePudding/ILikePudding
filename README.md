@@ -13,7 +13,7 @@
 I am a Software Engineering Student at the University of Houston - Clear Lake who is passionate about building robust software, games, and apps.
 
 🔭 &nbsp;I'm currently working on **tower defense game, real-time chat app, travel app, and a job-tracking app**  
-🌱 &nbsp;I'm currently learning **Docker, Kubernetes, the cloud, and always DSA**  
+🌱 &nbsp;I'm currently learning **Docker, Kubernetes, the cloud, Django, and DSA**  
 💬 &nbsp;Ask me about **Python, JavaScript, and C++**  
 ⚡ &nbsp;Fun fact: **I touch grass**
 
